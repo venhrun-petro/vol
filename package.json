@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "pozsite",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.23.0",
+    "gatsby-hospitality-core": "git+ssh://git@bitbucket.org/pozitiff/gatsby-hospitality-core.git#master"
+  }
+}
