@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "gatsby": "^2.23.0",
-    "gatsby-hospitality-core": "git+https://b1daac9889225166e0d6eb680115f6d5bbdd0797:x-oauth-basic@github.com/venhrun-petro/hotels.git"
+    "gatsby-hospitality-core": "git+https://p_venhryn:Vv24429612@bitbucket.org/pozitiff/gatsby-hospitality-core.git"
   }
 }
