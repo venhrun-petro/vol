@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "gatsby": "^2.23.0",
-    "gatsby-hospitality-core": "git+https://p_venhryn:Vv24429612@bitbucket.org/pozitiff/gatsby-hospitality-core.git"
+    "gatsby-hospitality-core": "git+ssh://git@bitbucket.org/pozitiff/gatsby-hospitality-core.git#master"
   }
 }
