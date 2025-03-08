@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.23.0",
+    "gatsby": "^5.14.1",
     "gatsby-hospitality-core": "git+ssh://git@bitbucket.org/pozitiff/gatsby-hospitality-core.git#master"
   }
 }
